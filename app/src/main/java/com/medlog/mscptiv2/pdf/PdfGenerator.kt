@@ -3,10 +3,8 @@ package com.medlog.mscptiv2.pdf
 import android.content.Context
 import android.graphics.*
 import android.graphics.pdf.PdfDocument
-import android.os.ParcelFileDescriptor
 import com.medlog.mscptiv2.model.RowItem
 import com.medlog.mscptiv2.model.TemplateConfig
-import com.medlog.mscptiv2.util.MeasurementUtils
 import kotlinx.coroutines.*
 import java.io.File
 import java.io.FileOutputStream
