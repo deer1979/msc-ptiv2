@@ -20,6 +20,12 @@ release/
 .gradle/
 build/
 
+# Gradle wrapper (keep these committed for consistent builds)
+# Uncomment if you want to exclude wrapper:
+# gradle/
+# gradlew
+# gradlew.bat
+
 # Local configuration file (sdk path, etc)
 local.properties
 
