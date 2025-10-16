@@ -1,0 +1,9 @@
+{
+  "template": "MSC Standard PTI",
+  "rows": [
+    {"step":"1","location":"Box External","check":"Impact damage","description":"Underside, RHS, LHS, Roof panel","checked":false},
+    {"step":"1","location":"Box External","check":"Impact damage","description":"Doors and machinery frame","checked":false},
+    {"step":"2","location":"Box Internal","check":"Inner panels + gaskets","description":"Ceiling, LHS, RHS, Door panels & gaskets","checked":false},
+    {"step":"3","location":"Machinery","check":"Power cable","description":"not less than 18mt from the cable box; max. 2 splices accepted","checked":false}
+  ]
+}
